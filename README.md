@@ -6,10 +6,10 @@ Readable is an application made to organize and display posts. The posts can be 
  
 To get this up and running run these commands in the project folder
 
-'''
+```
 	npm install
 	npm start
-'''
+```
 
 ## More about this 
 
